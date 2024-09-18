@@ -360,6 +360,7 @@ nav:hover{
 
 
 .video-card{
+    user-select: none;
     border-radius: 10px;
     width: fit-content;
     height: fit-content;
